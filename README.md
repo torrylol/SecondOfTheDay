@@ -33,7 +33,7 @@ Not Frequently Asked Questions:
 
 What email will the recipient see?
 
-The second of the day will be delivered via ‘tehesecondofthedaybot@gmail.com’ the password for that bot is in the code however if tampered with, (please dont mess with it) I will be updating the password and adding encryption via text file amendment so this isnt possible, the password is only in the code currently to compress the code and help my sleep schedule.
+The second of the day will be delivered via ‘thesecondofthedaybot@gmail.com’ the password for that bot is in the code however if tampered with, (please dont mess with it) I will be updating the password and adding encryption via text file amendment so this isnt possible, the password is only in the code currently to compress the code and help my sleep schedule.
 
 How accurate is this?
 As mentioned in the UI, emails arent sent exactly every 1 second, however this is all down to wifi speed. The actual interger given in the email is increddibly accurate to when the email was sent all the way to the 6th decimal place.
